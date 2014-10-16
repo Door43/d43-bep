@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bep:home|Door43 (bep)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bep|d43-bep repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bep/archive/master.zip|d43-bep.zip]]
+
+**Recent Changes**
+{{changes>ns = bep}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bep|Ethnologue data]]
+
